@@ -1,6 +1,8 @@
 {
-  "android": { "minVerze": 1, "vypnuto": false },
-  "ios":     { "minVerze": 11, "vypnuto": false },
-  "zprava":  { "cs": "Aplikace byla ukončena.", "en": "This app has been discontinued." },
+  "android":   { "minBuild": 1, "disabled": false, "minVerze": 1, "vypnuto": false },
+  "ios":       { "minBuild": 11, "disabled": false, "minVerze": 11, "vypnuto": false },
+  "message":   { "cs": "Aplikace byla ukončena.", "en": "This app has been discontinued." },
+  "zprava":    { "cs": "Aplikace byla ukončena.", "en": "This app has been discontinued." },
+  "telemetry": { "userName": true },
   "telemetrie": { "jmeno": true }
 }
