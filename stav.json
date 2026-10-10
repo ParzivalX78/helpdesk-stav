@@ -1,6 +1,6 @@
 {
   "android":   { "minBuild": 7, "disabled": false },
-  "ios":       { "minBuild": 17, "disabled": false },
+  "ios":       { "minBuild": 18, "disabled": false },
   "message":   { "cs": "Aplikace byla ukončena.", "en": "This app has been discontinued." },
   "telemetry": { "userName": true }
 }
